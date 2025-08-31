@@ -19,5 +19,5 @@ Render links : [Link to RPG Power Forge website](https://rpgpowerforge.com/)
 
 Render images
 
-![cat.jpg](./cat.jpg)
-![minion.gif](./minion.gif)
+![cat.jpg](./resources/cat.jpg)
+![minion.gif](./resources/minion.gif)
