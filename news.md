@@ -1,15 +1,14 @@
 # Big Title
-Nothing to see here.
+![400x285](./resources/cat.png)
 
 ## Title
-Nothing to see here.
+![500x270](./resources/minion.png)
 
 ### Small Title
-Nothing to see here.
+![400x285](./resources/cat.png)
 
 Render emojis : ✅😭❤️✨
 
-Render links : [Link to RPG Power Forge website](https://rpgpowerforge.com/)
 
 *Italic* **Bold**
 
@@ -17,8 +16,3 @@ Render links : [Link to RPG Power Forge website](https://rpgpowerforge.com/)
 - item 2
 - item 3
 - item 4
-
-Render images
-
-![400x285](./resources/cat.png)
-![500x270](./resources/minion.png)
