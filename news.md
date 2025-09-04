@@ -1,13 +1,5 @@
 # Big Title
-![20x20](./resources/cat.png)
-![20x20](./resources/cat.png)
-![20x20](./resources/cat.png)
-![20x20](./resources/cat.png)
-![20x20](./resources/cat.png)
-![20x20](./resources/cat.png)
-![20x20](./resources/cat.png)
-![20x20](./resources/cat.png)
-![20x20](./resources/cat.png)
+![400x285](./resources/cat.png)
 
 ## Title
 
