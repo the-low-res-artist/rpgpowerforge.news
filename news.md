@@ -20,5 +20,5 @@ Render links : [Link to RPG Power Forge website](https://rpgpowerforge.com/)
 
 Render images
 
-![4469x3192](./resources/cat.png)
+![400x285](./resources/cat.png)
 ![500x270](./resources/minion.png)
