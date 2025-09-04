@@ -1,11 +1,17 @@
 # Big Title
-![400x285](./resources/cat.png)
+![20x20](./resources/cat.png)
+![20x20](./resources/cat.png)
+![20x20](./resources/cat.png)
+![20x20](./resources/cat.png)
+![20x20](./resources/cat.png)
+![20x20](./resources/cat.png)
+![20x20](./resources/cat.png)
+![20x20](./resources/cat.png)
+![20x20](./resources/cat.png)
 
 ## Title
-![500x270](./resources/minion.png)
 
 ### Small Title
-![400x285](./resources/cat.png)
 
 Render emojis : ✅😭❤️✨
 
