@@ -1,17 +1,24 @@
-# Big Title
-![400x285](./resources/cat.png)
+# RPG Power Forge v0.5
 
-## Title
-This is a simple line of text, This is a simple line of text, This is a simple line of text,This is a simple line of text,This is a simple line of text,This is a simple line of text,This is a simple line of text,This is a simple line of text,This is a simple line of text,This is a simple line of text,This is a simple line of text,This is a simple line of text,This is a simple line of text,This is a simple line of text,This is a simple line of text,This is a simple line of text,This is a simple line of text,This is a simple line of text,This is a simple line of text,This is a simple line of text,This is a simple line of text,This is a simple line of text,This is a simple line of text,This is a simple line of text,This is a simple line of text,This is a simple line of text,This is a simple line of text,This is a simple line of text,This is a simple line of text,This is a simple line of text,This is a simple line of text,This is a simple line of text,This is a simple line of text,
+## News features !
 
-### Small Title
+- **Database window** 
+- **Message box behavior**
+- **Project template**
+- **Localization**
 
-Render emojis : ✅😭❤️✨
+### Database window
 
+xxx
 
-*Italic* **Bold**
+### Message box behavior
 
-- item 1
-- item 2
-- item 3
-- item 4
+xxx
+
+### Project template
+
+xxx
+
+### Localization
+
+xxx
