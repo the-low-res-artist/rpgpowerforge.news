@@ -1,6 +1,6 @@
 # RPG Power Forge v0.5
 
-## News features !
+## New features !
 
 - **Database window** 
 - **Message box behavior**
